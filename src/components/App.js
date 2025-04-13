@@ -10,9 +10,9 @@ function App() {
       
       <PageLayout 
              header="Welcome to my Website" 
-             children="This is the content of my website."/>
+             children="This is the content of my website."
              footer="© 2023 My Website. All rights reserved." 
-      
+      />
     </div>
 }
 export default App
