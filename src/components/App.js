@@ -10,8 +10,8 @@ function App() {
       
       <PageLayout 
              header="Welcome to my Website" 
-             footer="All rights reserved" 
              children="This is the content of my website."/>
+             footer="© 2023 My Website. All rights reserved." 
       
     </div>
 }
