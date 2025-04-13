@@ -9,7 +9,7 @@ const App = () => {
       header={<Header />}
       footer={<Footer />}
     >
-      <div>This is the main content!</div>
+      <div>This is the content of my website.</div>
     </PageLayout>
   );
 };
